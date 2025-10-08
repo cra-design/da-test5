@@ -1,0 +1,54 @@
+[
+  {
+    "origin": "https://www.canada.ca/en/services/taxes/child-and-family-benefits.html",
+    "destination": "/da-test5/services/taxes/child-and-family-benefits.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/child-family-benefits/dental-benefit.html",
+    "destination": "/da-test5/revenue-agency/services/child-family-benefits/dental-benefit.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/child-family-benefits/dental-benefit/who-apply.html",
+    "destination": "/da-test5/revenue-agency/services/child-family-benefits/dental-benefit/who-apply.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/child-family-benefits/dental-benefit/validation.html",
+    "destination": "/da-test5/revenue-agency/services/child-family-benefits/dental-benefit/validation.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/child-family-benefits/dental-benefit/application-denied.html",
+    "destination": "/da-test5/revenue-agency/services/child-family-benefits/dental-benefit/application-denied.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/child-family-benefits/dental-benefit/return-payment.html",
+    "destination": "/da-test5/revenue-agency/services/child-family-benefits/dental-benefit/return-payment.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/child-family-benefits/dental-benefit/contact.html",
+    "destination": "/da-test5/revenue-agency/services/child-family-benefits/dental-benefit/contact.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/child-family-benefits/dental-benefit/statistics.html",
+    "destination": "/da-test5/revenue-agency/services/child-family-benefits/dental-benefit/statistics.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/services/taxes/income-tax.html",
+    "destination": "/da-test5/services/taxes/income-tax.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses.html",
+    "destination": "/da-test5/revenue-agency/services/tax/businesses/topics/gst-hst-businesses.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/calculate-prepare-report.html",
+    "destination": "/da-test5/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/calculate-prepare-report.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/file-gst-hst-return.html",
+    "destination": "/da-test5/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/file-gst-hst-return.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/services/taxes/excise-taxes-duties-and-levies.html",
+    "destination": "/da-test5/services/taxes/excise-taxes-duties-and-levies.html"
+  }
+]
